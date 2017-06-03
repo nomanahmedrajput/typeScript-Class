@@ -27,4 +27,6 @@ var index = str1.indexOf( "one" );
 console.log("indexOf found String :" + index ); */
 //let announcement: string ='My name is Umair';
 //console.log(announcement);
+var announcement = 'My name is Umair';
+console.log(announcement);
 //# sourceMappingURL=task.js.map

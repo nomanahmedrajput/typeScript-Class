@@ -31,3 +31,6 @@ console.log("indexOf found String :" + index ); */
 //console.log(announcement);
 
 
+let announcement: string ='My name is Umair';
+
+console.log(announcement);
