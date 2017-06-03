@@ -29,4 +29,8 @@ console.log("indexOf found String :" + index ); */
 //console.log(announcement);
 var announcement = 'My name is Umair';
 console.log(announcement);
+var announce = 'My name is Umair';
+console.log(announce);
+var value = 'My name is Umair';
+console.log(value);
 //# sourceMappingURL=task.js.map

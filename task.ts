@@ -34,3 +34,13 @@ console.log("indexOf found String :" + index ); */
 let announcement: string ='My name is Umair';
 
 console.log(announcement);
+
+
+let announce: string ='My name is Umair';
+
+console.log(announce);
+
+
+let value: string ='My name is Umair';
+
+console.log(value);
